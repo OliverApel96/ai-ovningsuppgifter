@@ -221,6 +221,4 @@ __marimo__/
 .DS_Store
 .ipynb_checkpoints/
 *.joblib
-data/*.csv
-data/*.xlsx
 !data/.gitkeep
